@@ -1,1 +1,1 @@
-First rough draft work in progress LaTeX classifier front end
+Rough first draft work in progress LaTeX classifier front end
